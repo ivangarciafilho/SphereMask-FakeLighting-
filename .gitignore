@@ -1,0 +1,13 @@
+﻿.vs
+.cr
+.vscode
+Library
+Logs
+obj
+UserSettings
+.vsconfig
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+TestShader.sln
+Unity.RenderPipelines.Core.Samples.Editor.csproj
+Unity.RenderPipelines.Core.Samples.Runtime.csproj
